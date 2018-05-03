@@ -1,0 +1,3 @@
+[submodule "Vagrant"]
+	path = Vagrant
+	url = git@github.com:adamrushuk/vagrant-scripts.git
